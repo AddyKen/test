@@ -1,3 +1,20 @@
 {
-  "name": "Honey"
+  "server": "",
+  "registrationKey": "justin",
+  "resolution": "auto",
+  "rebootSchedule": "at 8:00 am",
+  "maxNumberOfLogFilesToKeep": 2,
+  "logLevel": 1,
+  "enableAdminUI": true,
+  "enableOSD": true,
+  "enableActivityUI": true,
+  "enableNativeVideo": false,
+  "enableAutoScreenshot": false,
+  "cloudMode": true,
+  "cloudUrl": "https://288650-306apricotfalcon.adobeioruntime.net",
+  "cloudToken": "",
+  "enableDeveloperMode": true,
+  "enableAdvancedPlaybackMonitoring": true,
+  "enableSecondaryStorage": true
 }
+
